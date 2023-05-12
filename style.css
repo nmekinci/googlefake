@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+nav {
+  line-height: 27px;
+  padding: 20px;
+}
+.nav__left {
+  float: left;
+}
+.nav__right {
+  float: right;
+}
+.nav__list {
+    display: inline;
+}
+.nav__item img{
+    vertical-align: middle;
+}
